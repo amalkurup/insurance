@@ -1,0 +1,5 @@
+APP_NAME: 'akarchitects'
+MS_NAME: 'insurance'
+BRANCH: 'master'
+GIT_SOURCE_URL: 'https://github.com/amalkurup/insurance.git'
+SONAR_HOST_URL: 'http://sonarqube-akarchitects-devops.40.71.221.144.nip.io'
